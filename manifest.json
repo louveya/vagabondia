@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generated": "2026-07-14",
+  "models": {
+    "katana": {
+      "file": "models/katana.glb",
+      "bytes": 77832,
+      "tris": 2000,
+      "slots": [
+        "body"
+      ],
+      "license": "CC0",
+      "source": "https://example.org/the-page-you-downloaded-it-from"
+    }
+  }
+}
